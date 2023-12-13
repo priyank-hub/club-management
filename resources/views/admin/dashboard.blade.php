@@ -1,0 +1,5 @@
+@extends("adminheader")
+@extends("admin.faq")
+@extends("admin.faqdisplay")
+@extends("admin.event")
+@extends("admin.eventdisplay")
